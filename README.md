@@ -13,7 +13,12 @@
 
 
 ---
+
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Spilya/Spilya/main/owositting.webp" height="300" alt="img" />
+       <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="16"/> i'm furry btw 👅
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Spilya/Spilya/main/owositting.webp" height="300"/>
 </p>
 
