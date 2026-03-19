@@ -10,3 +10,10 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=linux,arch,redhat,ubuntu,jenkins,docker,grafana,nginx,cloudflare " alt="Ops" />
 </p>
+
+
+---
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Spilya/Spilya/main/owositting.webp" height="300" alt="img" />
+</p>
+
