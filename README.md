@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Spilya&theme=github_dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Spilya&theme=github_dark&disable_animations=true"/>
 </p>
 
 
