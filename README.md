@@ -10,10 +10,12 @@
     <img src="https://skillicons.dev/icons?i=linux,arch,redhat,ubuntu,jenkins,docker,grafana,nginx,cloudflare " alt="Ops" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Spilya&theme=github_dark&disable_animations=true"/>
+</p> -->
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Spilya/Spilya/refs/heads/main/profile/stats.svg"/>
 </p>
-
 
 ---
 
