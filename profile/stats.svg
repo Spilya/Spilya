@@ -130,7 +130,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#C3D1D9"></rect>
-      <svg data-testid="lang-progress" width="65.6%">
+      <svg data-testid="lang-progress" width="56.35%">
         <rect
             height="8"
             fill="#58A6FF"
@@ -149,11 +149,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >5 hrs</text>
+      >9 hrs 13 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#C3D1D9"></rect>
-      <svg data-testid="lang-progress" width="19.48%">
+      <svg data-testid="lang-progress" width="30.83%">
         <rect
             height="8"
             fill="#58A6FF"
@@ -176,7 +176,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#C3D1D9"></rect>
-      <svg data-testid="lang-progress" width="5.58%">
+      <svg data-testid="lang-progress" width="4.79%">
         <rect
             height="8"
             fill="#58A6FF"
@@ -199,7 +199,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#C3D1D9"></rect>
-      <svg data-testid="lang-progress" width="3.12%">
+      <svg data-testid="lang-progress" width="2.68%">
         <rect
             height="8"
             fill="#58A6FF"
@@ -222,7 +222,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#C3D1D9"></rect>
-      <svg data-testid="lang-progress" width="2.1%">
+      <svg data-testid="lang-progress" width="2%">
         <rect
             height="8"
             fill="#58A6FF"
@@ -245,7 +245,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#C3D1D9"></rect>
-      <svg data-testid="lang-progress" width="2.02%">
+      <svg data-testid="lang-progress" width="2%">
         <rect
             height="8"
             fill="#58A6FF"
